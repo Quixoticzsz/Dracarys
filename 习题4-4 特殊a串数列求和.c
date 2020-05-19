@@ -1,4 +1,3 @@
-# Dracarys
 #include<stdio.h>
 int main(){
   int a,n,x,sum=0;
