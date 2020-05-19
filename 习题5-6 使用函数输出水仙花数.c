@@ -1,4 +1,3 @@
-# Dracarys
 int narcissistic( int number ){
   int n,x=number,y=number,sum=0,flag=0,h=1;
   for(n=0;x>0;n++)
