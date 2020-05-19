@@ -1,4 +1,3 @@
-# Dracarys
 int reverse( int number ){
     int x=number,count,count1=0,sum=0;
     if(x<0)
