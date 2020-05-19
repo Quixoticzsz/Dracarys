@@ -1,4 +1,3 @@
-# Dracarys
 #include <stdio.h>
 int main(){
     double x,price1,sum;
