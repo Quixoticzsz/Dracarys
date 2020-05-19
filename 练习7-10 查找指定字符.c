@@ -1,5 +1,3 @@
-# Dracarys
-浙大版《C语言程序设计（第3版）》题目集
 #include<stdio.h>
 int main(){
     int i=0,k,index=-1;
