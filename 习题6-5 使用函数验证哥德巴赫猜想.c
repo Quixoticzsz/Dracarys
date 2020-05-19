@@ -1,4 +1,3 @@
-# Dracarys
 int prime( int p ){
     int flag=1;
     if(p==1)
