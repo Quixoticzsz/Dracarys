@@ -1,4 +1,3 @@
-# Dracarys
 int sign( int x ){
   int result;
   if(x>0)
