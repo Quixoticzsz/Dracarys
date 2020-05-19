@@ -1,4 +1,3 @@
-# Dracarys
 #include<stdio.h>
 int main(){
   int x,count=0,total=0;
