@@ -1,4 +1,3 @@
-# Dracarys
 int CountDigit( int number, int digit ){
   int i,item,count=0;
   if(number<0)
