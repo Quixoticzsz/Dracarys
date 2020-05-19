@@ -1,4 +1,3 @@
-# Dracarys
 #include<stdio.h>
 double power(double a,int b);
 int fact(int n);
