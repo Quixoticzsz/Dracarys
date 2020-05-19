@@ -1,4 +1,3 @@
-# Dracarys
 #include <stdio.h>
 #include <math.h>
 double fact(int n);
