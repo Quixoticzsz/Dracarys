@@ -1,4 +1,3 @@
-# Dracarys
 int factorsum( int number ){
     int sum=0;
     if(number==1)
