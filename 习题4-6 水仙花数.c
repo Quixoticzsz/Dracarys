@@ -1,4 +1,3 @@
-# Dracarys
 #include<stdio.h>
 int pow(int a,int b);
 int main(){
