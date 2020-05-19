@@ -1,4 +1,3 @@
-# Dracarys
 #include<stdio.h>
 int main(){
   int n,count=0,mynumber,yournumber;
