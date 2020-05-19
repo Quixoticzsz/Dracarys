@@ -1,4 +1,3 @@
-# Dracarys
 int even( int n ){
   int flag;
   if(n%2==0)
