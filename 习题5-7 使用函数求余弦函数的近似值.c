@@ -1,4 +1,3 @@
-# Dracarys
 double funcos( double e, double x ){
   double item,sum=0,sum1=1;
   int flag=1,a=0;
