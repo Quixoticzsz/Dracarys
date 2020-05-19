@@ -1,4 +1,3 @@
-# Dracarys
 void StringCount( char s[] ){
     int letter,blank,digit,other;
     letter=blank=digit=other=0;
