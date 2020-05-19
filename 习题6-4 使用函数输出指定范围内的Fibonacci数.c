@@ -1,4 +1,3 @@
-# Dracarys
 int fib( int n ){
     int a1=1,a2=1,result;
     if(n<=2)
