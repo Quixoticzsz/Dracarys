@@ -1,4 +1,3 @@
-# Dracarys
 int fn( int a, int n ){
 	int count=0;
     for(int i=1;i<=n;i++)
